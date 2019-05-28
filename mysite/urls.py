@@ -9,4 +9,6 @@ urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
 
     url(r'^gridlayout/', include('appgridlayout.urls', namespace='appgridlayout')),
+    
+    url(r'^buttons/', include('buttons.urls', namespace='buttons')),
 ]
