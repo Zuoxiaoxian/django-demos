@@ -39,6 +39,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'appgridlayout',
     'buttons',
+    'menu',
 )
 
 MIDDLEWARE_CLASSES = (

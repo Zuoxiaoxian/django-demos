@@ -13,7 +13,7 @@ $(document).ready(function () {
 ```
 
 
-## demo3 变形页面过渡
+## demo3 行菜单样式
 
-[参考](https://tympanus.net/codrops/2017/08/08/morphing-page-transition/)
+
 

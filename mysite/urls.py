@@ -11,4 +11,6 @@ urlpatterns = [
     url(r'^gridlayout/', include('appgridlayout.urls', namespace='appgridlayout')),
     
     url(r'^buttons/', include('buttons.urls', namespace='buttons')),
+
+    url(r'^menu/', include('menu.urls', namespace='menu')),
 ]
